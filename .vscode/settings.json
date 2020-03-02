@@ -1,0 +1,10 @@
+{
+  "python.pythonPath": "C:\\Users\\Administrator\\.virtualenvs\\django_search_engine-wSG5RDrk\\Scripts\\python.exe",
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": true,
+  "python.linting.enabled": true,
+  "python.linting.flake8Args": [
+    "--max-line-length=88"
+  ],
+  "python.formatting.provider": "black"
+}
